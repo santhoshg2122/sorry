@@ -12,10 +12,10 @@ const gifStages = [
 const noMessages = [
     "Are you really still mad?",
     "I'm so sorry!",
-    "Please give me another chance!",
+    "Please give me another chance aaisha!",
     "I promise I'll do better!",
     "I will be very sad... 😢",
-    "Please??? 💔",
+    "Please aaisha??? 💔",
     "Don't do this to me...",
     "Last chance! 😭",
     "You can't catch me anyway 😜"
